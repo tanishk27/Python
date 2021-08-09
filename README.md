@@ -1,2 +1,2 @@
 # Python
-python codes
+python codes and mini projects
